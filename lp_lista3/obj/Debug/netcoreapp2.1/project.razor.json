@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\leonardo.aprado\\projetos\\lp_lista3\\lp_lista3\\lp_lista3.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
